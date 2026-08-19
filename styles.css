@@ -1,0 +1,66 @@
+.profile-header h1 {
+    margin: 0;
+    padding: 20px;
+    color: aliceblue;
+    font-size: 50px;
+    background-image: url(campus.jpg);
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+.profile-header {
+    color: white;
+    background-color: #2e2d29;
+    text-align: center;
+}
+
+a{
+    color: antiquewhite;
+}
+
+.intro {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+main {
+    color: antiquewhite;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("UPH-University.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #2e2d29;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+ul {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
+footer a, #education a {
+    color: #ffd166;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(0, 13, 131);
+    color: white;
+}
+
+#about h2 {
+  margin-top: 0;
+  padding-top: 20px; 
+}
+
+footer h2, footer p, #education p, #about h2, header p:last-child{
+    margin: 0;
+}
